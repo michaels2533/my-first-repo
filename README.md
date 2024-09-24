@@ -1,1 +1,1 @@
-# my-first-repo
+My name is Michael Stawowski and I'm orginally from Washington State. I'm excited to learn programming at Marcy Lab this year. A interesting fact about me is I like to workout. 
